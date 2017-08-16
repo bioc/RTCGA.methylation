@@ -1,0 +1,17 @@
+BRCA.methylation
+COAD.methylation
+COADREAD.methylation
+GBM.methylation
+GBMLGG.methylation
+KIPAN.methylation
+KIRC.methylation
+KIRP.methylation
+LAML.methylation
+LUAD.methylation
+LUSC.methylation
+OV.methylation1
+OV.methylation2
+READ.methylation
+STAD.methylation
+STES.methylation
+UCEC.methylation
