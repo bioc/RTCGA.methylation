@@ -1,7 +1,7 @@
 Package: RTCGA.methylation
 Type: Package
 Title: Methylation datasets from The Cancer Genome Atlas Project
-Version: 1.21.0
+Version: 1.21.1
 Date: 2015-12-23
 Authors@R: c( person("Marcin", "Kosinski", role = c("aut", "cre"), email =
           "m.p.kosinski@gmail.com"), person("Witold", "Chodor", role = c("aut"), email =
@@ -16,10 +16,12 @@ LazyData: TRUE
 Repository: Bioconductor
 BugReports: https://github.com/RTCGA/RTCGA/issues
 Depends: R (>= 3.3.0), RTCGA
-Suggests: knitr
+Suggests: 
+		knitr,
+		rmarkdown
 biocViews: AnnotationData
 VignetteBuilder: knitr
 NeedsCompilation: no
-RoxygenNote: 5.0.1
+RoxygenNote: 7.1.1
 Author: Marcin Kosinski [aut, cre], Witold Chodor [aut]
 Maintainer: Marcin Kosinski <m.p.kosinski@gmail.com>

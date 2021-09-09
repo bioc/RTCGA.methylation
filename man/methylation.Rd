@@ -2,6 +2,7 @@
 % Please edit documentation in R/methylation_datasets.R
 \docType{data}
 \name{methylation}
+\alias{methylation}
 \alias{BRCA.methylation}
 \alias{BRCA.methylation,COAD.methylation,COADREAD.methylation,GBM.methylation,GBMLGG.methylation,KIPAN.methylation,KIRC.methylation,KIRP.methylation,LAML.methylation,LUAD.methylation,LUSC.methylation,OV.methylation,OV.methylation1,OV.methylation2,READ.methylation,STAD.methylation,STES.methylation,UCEC.methylation}
 \alias{COAD.methylation}
@@ -14,13 +15,12 @@
 \alias{LAML.methylation}
 \alias{LUAD.methylation}
 \alias{LUSC.methylation}
-\alias{OV.methylation1}
 \alias{OV.methylation2}
+\alias{OV.methylation1}
 \alias{READ.methylation}
 \alias{STAD.methylation}
 \alias{STES.methylation}
 \alias{UCEC.methylation}
-\alias{methylation}
 \title{Methylation datasets from TCGA project}
 \source{
 \url{http://gdac.broadinstitute.org/}
@@ -86,4 +86,3 @@ browseVignettes("RTCGA")
 
 }
 \keyword{datasets}
-
