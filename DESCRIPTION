@@ -1,7 +1,7 @@
 Package: RTCGA.methylation
 Type: Package
 Title: Methylation datasets from The Cancer Genome Atlas Project
-Version: 1.41.0
+Version: 1.41.1
 Date: 2015-12-23
 Authors@R: c( person("Marcin", "Kosinski", role = c("aut", "cre"), email =
           "m.p.kosinski@gmail.com"), person("Witold", "Chodor", role = c("aut"), email =
@@ -25,3 +25,4 @@ NeedsCompilation: no
 RoxygenNote: 7.1.1
 Author: Marcin Kosinski [aut, cre], Witold Chodor [aut]
 Maintainer: Marcin Kosinski <m.p.kosinski@gmail.com>
+PackageStatus: Deprecated
